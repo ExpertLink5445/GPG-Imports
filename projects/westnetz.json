@@ -43,7 +43,6 @@
       "encoding": "utf-8",
       "columns": [
         {"field": "locations_no"},
-        {"field": "auftraggeber",       "fixed": "Westnetz"},
         {"field": "flurstueck",         "source": "Flur/Flurstück"},
         {"field": "com_adress_id",      "source": "Adressschlüssel (Anschlusspunkt)"},
         {"field": "lie_zip",            "source": "PLZ"},

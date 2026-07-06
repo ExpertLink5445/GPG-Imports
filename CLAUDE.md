@@ -1,5 +1,11 @@
 # CLAUDE.md
 
+## Speicher-Direktive
+
+**Beim Start jeder Konversation:** Lies alle verlinkten Dateien aus `MEMORY.md` (ist automatisch im Kontext). Die Einzeldateien sind es nicht — nur durch explizites Lesen steht der volle Projektstand zur Verfügung.
+
+---
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
