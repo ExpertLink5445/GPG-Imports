@@ -29,7 +29,7 @@ INTERNATIONAL_FIRST_NAMES = {
     'gabriel', 'georg', 'gerald', 'gerd', 'gerhard', 'gernot', 'gero', 'gert', 'gilbert', 'gino',
     'giorgio', 'giovanni', 'giuseppe', 'gordon', 'gottfried', 'gotthard', 'gregor', 'guido',
     'günter', 'günther', 'gustav', 'guy',
-    'hagen', 'hajo', 'hakan', 'hannes', 'hanno', 'hans', 'harald', 'hardy', 'hartmut', 'hartwig',
+    'hagen', 'hajo', 'hakan', 'hannes', 'hanno', 'hans', 'harald', 'hardy', 'harri', 'hartmut', 'hartwig',
     'hasso', 'hauke', 'heiko', 'heiner', 'heinrich', 'heinz', 'helge', 'hellmut', 'helmut', 'hendrik',
     'henning', 'henri', 'henrik', 'henry', 'herbert', 'hermann', 'heribert', 'hilmar', 'hinrich',
     'holger', 'horst', 'hubert', 'hubertus', 'hugo',
@@ -396,7 +396,7 @@ INTERNATIONAL_FIRST_NAMES = {
     # Arabic/North African names (male, common in Germany)
     'abdelkarim', 'abdelkrim', 'abdulaziz', 'abdulhamid', 'abdallah', 'abdel', 'abdu', 'abid',
     'abu', 'adnan', 'ahmad', 'amir', 'anas', 'aymen', 'ayoub', 'ayman', 'aziz', 'bilal',
-    'chahid', 'chaker', 'farid', 'faris', 'fehmi', 'fouad', 'habib', 'hafid', 'hamza', 'hatem',
+    'chahid', 'chaker', 'farid', 'faris', 'farsid', 'fehmi', 'fouad', 'habib', 'hafid', 'hamza', 'hatem',
     'hussein', 'idriss', 'imad', 'isam', 'issam', 'jalal', 'jamil', 'jihad', 'kamel', 'karim',
     'karima', 'khalid', 'khaled', 'lotfi', 'maher', 'mansour', 'marouane', 'mounir', 'mourad',
     'nacer', 'nabil', 'nadir', 'nassim', 'nizar', 'omar', 'rachid', 'ramzi', 'riad', 'ridha',
