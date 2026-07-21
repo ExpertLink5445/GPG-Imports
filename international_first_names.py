@@ -100,7 +100,7 @@ INTERNATIONAL_FIRST_NAMES = {
     'camilla', 'camille', 'candida', 'cara', 'caren', 'carina', 'carla', 'carlotta', 'carmela',
     'carmen', 'carola', 'carolin', 'caroline', 'carolyn', 'cassandra', 'catharina', 'catharine',
     'catherine', 'cathleen', 'cathrin', 'catrin', 'cecile', 'cecilia', 'celeste', 'celestina',
-    'celia', 'celina', 'celine', 'chantal', 'charleen', 'charlene', 'charlotte', 'chiara', 'chloe',
+    'celia', 'celina', 'celine', 'cerstin', 'chantal', 'charleen', 'charlene', 'charlotte', 'chiara', 'chloe',
     'christa', 'christel', 'christiana', 'christiane', 'christin', 'christina', 'christine',
     'cindy', 'claire', 'clara', 'clare', 'clarissa', 'claudia', 'claudine', 'clementine', 'cleo',
     'clothilde', 'coco', 'colette', 'concetta', 'connie', 'constance', 'constanze', 'cora', 'coralie',
