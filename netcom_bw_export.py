@@ -51,6 +51,7 @@ def process_file(input_path, output_dir):
 
         rows_s.append({
             'locations_no':       '',
+            'auftraggeber':       'NetCom BW',
             'lie_zip':            zip_code,
             'lie_city':           city,
             'lie_city_part':      city_p,
